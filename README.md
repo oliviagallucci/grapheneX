@@ -65,6 +65,14 @@ poetry run grapheneX  # run grapheneX
 
 ## Usage
 
+Note that much of the functionality will not work if you do not run the the program as sudo su. 
+
+``` 
+sudo su 
+sudo ./grapheneX
+
+```
+
 ### Command Line Arguments
 
 ```
